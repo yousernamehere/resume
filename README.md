@@ -1,6 +1,6 @@
 # Jeramie Hicks - AI Engineer Portfolio
 
-A premium, 1st Phorm-branded interactive resume with AI-powered chat functionality.
+A premium, interactive resume with AI-powered chat functionality.
 
 ## Features
 
@@ -67,8 +67,8 @@ Without an API key, the chat uses intelligent mock responses.
 
 ## Contact
 
-- **Email**: Jeramieshicks@gmail.com
-- **Phone**: 269-500-1768
+- **Email**: 
+- **Phone**: 
 - **LinkedIn**: /in/jeramieshicks
 - **GitHub**: /yousernamehere
 
